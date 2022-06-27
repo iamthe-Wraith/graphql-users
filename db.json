@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "id": "1", "name": "John Doe", "age": 20, "companyId": "1001" },
+    { "id": "2", "name": "Jane Doe", "age": 30, "companyId": "1001" },
+    { "id": "3", "name": "John Smith", "age": 40, "companyId": "1002" },
+    { "id": "4", "name": "Jane Smith", "age": 50, "companyId": "1002" }
+  ],
+  "companies": [
+    { "id": "1001", "name": "GitHub", "description": "Awesome developer tool." },
+    { "id": "1002", "name": "Stack Overflow", "description": "Awesome developer community to ask and answer questions." }
+  ]
+}
